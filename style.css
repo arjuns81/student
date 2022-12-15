@@ -1,0 +1,13 @@
+  img:copy_right_footer{
+  position:fixed;
+  bottom:0;  
+  width:100%;
+  text_align:center;
+};
+box-shadow: 0 6px 8px 0 rgba(2.2.2.0.2);
+img :hover{
+    position:fixed;
+    bottom:0;  
+    width:100%;
+    text_align:center;
+}
